@@ -30,8 +30,11 @@ By leveraging this dataset, data Analyst can uncover customer purchasing pattern
 3. أبرز النتائج (Takeaways)
 
 قوة مبيعات Men تشير لفرصة توسيع تشكيلة Women.
+
 الموسمية والعروض الترويجية تأثيرهم محدود على الإيرادات الإجمالية.
+
 موضع المنتج (Aisle) يؤثر بقوة على المبيعات.
+
 منتجات Jackets تقود الإيرادات، وJeans تحتاج مراجعة تسعير/تشكيلة.
 ### 📊 Tooling: 
 SQL (Cleaning, Transformations, Stats) + Power BI (Interactive Dashboards)
