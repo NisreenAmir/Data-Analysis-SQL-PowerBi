@@ -33,5 +33,5 @@ By leveraging this dataset, data Analyst can uncover customer purchasing pattern
 الموسمية والعروض الترويجية تأثيرهم محدود على الإيرادات الإجمالية.
 موضع المنتج (Aisle) يؤثر بقوة على المبيعات.
 منتجات Jackets تقود الإيرادات، وJeans تحتاج مراجعة تسعير/تشكيلة.
-# 📊 Tooling: 
+### 📊 Tooling: 
 SQL (Cleaning, Transformations, Stats) + Power BI (Interactive Dashboards)
