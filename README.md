@@ -7,7 +7,7 @@ The dataset features key attributes such as product ID, product name, product ca
 ## Objective
 By leveraging this dataset, data Analyst can uncover customer purchasing patterns and identify factors influencing Zara's revenue streams. The insights derived are invaluable for Zara management in optimizing marketing strategies, refining inventory management, and making data-driven decisions to enhance overall profitability. This makes the dataset an excellent foundation for Industy models aimed at improving retail operations and driving business growth.
 ## Case Study 
-# SQL — Data Prep & Analysis
+### SQL — Data Prep & Analysis
 
 1. أستكشاف البيانات: راجعت الـ schema وأنواع البيانات.
 2. التعامل مع التكرارات: بحثت عن البيانات المكررة و Removed Duplicated.
@@ -24,7 +24,7 @@ By leveraging this dataset, data Analyst can uncover customer purchasing pattern
 * Jackets الأعلى إيرادًا، والأقل Jeans.
 * عرضت Top 10 Products حسب الإيراد، وكررت التحليل على Sales Volume.
 
-# Power BI — Visualization
+### Power BI — Visualization
 1. صممت Dashboard تترجم كل أسئلة البيزنس إلى Visuals واضحة.
 2. أضفت Filters على Section وTerms لسهولة الاستكشاف.
 3. أبرز النتائج (Takeaways)
